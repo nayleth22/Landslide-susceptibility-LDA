@@ -1,4 +1,5 @@
-<h1 style="color:red;">Landslide-susceptibility-LDA>
+
+<h1 style="color:red;">Landslide-susceptibility-LDA</h1>
 
 # Landslide-susceptibility-LDA
 
