@@ -1,5 +1,9 @@
-
-<h1 style="color:blue;">Landslide-susceptibility-LDA</h1>
+<html>
+<head></head>
+<body>
+  <h1 style="color: red;">Landslide-susceptibility-LDA</h1>
+</body>
+</html>
 
 This Python script generates a landslide susceptibility model using linear discriminant analysis. As input, the script requires the following variables:
 
