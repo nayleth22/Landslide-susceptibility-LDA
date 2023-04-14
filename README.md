@@ -1,3 +1,5 @@
+<h1 style="color:red;">Landslide-susceptibility-LDA>
+
 # Landslide-susceptibility-LDA
 
 This Python script generates a landslide susceptibility model using linear discriminant analysis. As input, the script requires the following variables:
@@ -15,7 +17,7 @@ This Python script generates a landslide susceptibility model using linear discr
 - A Landslide Susceptibility Index (LSI) map in TIFF format.
 
 ## Installation:
-To use the script, it is necessary to have Python and some additional libraries installed (numpy, os, osgeo, pandas, sklearn, math, seaborn ,scipy.stats and matplotlib and the argparse module. )
+To use the script, it is necessary to have Python and some additional libraries installed (numpy, os, osgeo, pandas, sklearn, math, seaborn, scipy.stats and matplotlib and the argparse module)
 
 ## Authorship:
-This project was created by Nayleth Alexandra Rojas Becerra. You can contact the author at nayleth_alexandra@hotmail.com'''''
+This project was created by Nayleth Alexandra Rojas Becerra. You can contact the author at nayleth_alexandra@hotmail.com
